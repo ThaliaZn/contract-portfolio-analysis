@@ -434,9 +434,9 @@ Created as professional portfolio piece showcasing intersection of financial ope
 Financial Operations Specialist  
 
 📧 grthalia@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/thaliaz)  
+💼 [LinkedIn](https://www.linkedin.com/in/thaliaz)  
 🌐 [Portfolio](https://zthalia.wixsite.com/info)  
-💻 [GitHub](https://github.com/ThaliaZn)
+💻 [GitHub](https://www.github.com/ThaliaZn)
 
 ---
 
