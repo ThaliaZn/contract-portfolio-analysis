@@ -412,7 +412,7 @@ Contracts expiring within 60 days are categorized by renewal likelihood:
 ## Dashboard Access
 
 **Live Interactive Dashboard:** [Tableau Public Link](https://public.tableau.com/views/ContractOperations/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-**Code Repository & Documentation:** [GitHub Link](https://github.com/ThaliaZn/contract-portfolio-analysis])
+**Code Repository & Documentation:** [GitHub Link](https://www.github.com/ThaliaZn/contract-portfolio-analysis])
 
 ---
 
