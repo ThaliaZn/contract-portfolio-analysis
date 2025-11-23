@@ -104,7 +104,7 @@ This project demonstrates:
 **Thalia Zournatzidou**  
 Financial Operations Specialist
 
-- 💼 [LinkedIn](www.linkedin.com/in/thaliaz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaliaz)
 - 🌐 [Portfolio](https://zthalia.wixsite.com/info)
 - 📧 grthalia@gmail.com
 
